@@ -3,6 +3,7 @@
     "name": "scriptbuddy",
     "slug": "scriptbuddy",
     "version": "1.0.0",
+    "owner": "halfcyan",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
